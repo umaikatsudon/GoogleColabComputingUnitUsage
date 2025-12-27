@@ -1,6 +1,6 @@
 # GoogleColabComputingUnitUsage
 
-| GPU名 | 通常 (RAM/VRAM/storage) | ハイメモリ (RAM/VRAM/storage) |
+| GPU | Standard (RAM/VRAM/storage) | High-Mem (RAM/VRAM/storage) |
 | :--- | :--- | :--- |
 | CPU | 0.07 (12.7G/------/225.8G) | 0.24 (51.0G/------/225.8G) |
 | A100 GPU | 5.44 (83.5G/40.0G/235.7G) | 7.52 (167.1G/80.0G/235.7G) |
